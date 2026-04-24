@@ -1,5 +1,5 @@
 # myRepo
-This project is for a test assignment of Wallethub
+This project is for an automation assignment of Wallethub
 >> There are 3 packages & 1 Config folder in the project
        Packages: 1. Base package contains Baseclass for configuring URLs,username passwords for bpth assignments
                  2. PageTests package contains facebookPostMsg.java test script for first assignment & walletHubReviews.java script for second assignment
